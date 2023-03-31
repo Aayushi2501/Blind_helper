@@ -32,7 +32,8 @@ This project was conceived keeping in mind the day-to-day struggles such as read
 
 ![App architecture](https://github.com/Aayushi2501/Blind_helper/blob/master/tl.png)
 
-
+## Downloadble Resorces 
+https://bit.ly/BlindHelperPPT
 ## Conclusion
 
 At present, mobiles apps in smart phones are used to perform the most of our daily activities. But the people with vision impairment require assistance to access these mobile apps through handheld devices like mobile and tablets. Google, Android applications has been developing various mobile apps for visually impaired people Still it need to provide more effective facilities in app by adopting and synergizing suitable techniques from Artificial Intelligence. This report introduced two environmentally-friendly designs for a blind people. We presented information about the Blind people application. This application will be more effective for blind people. It is important to develop this application for the future. The system is used by Blind peoples but the normal people also can use.
