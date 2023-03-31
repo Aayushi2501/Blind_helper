@@ -34,8 +34,8 @@ This project was conceived keeping in mind the day-to-day struggles such as read
 
 ## Downloadble Resorces 
 
-https://bit.ly/BlindHelperPPT
-https://drive.google.com/drive/folders/1nJSYW5rYwGYUZ_JJujMVdsc4bEFSyjA6?usp=sharing
+1) https://bit.ly/BlindHelperPPT 
+2) https://drive.google.com/drive/folders/1nJSYW5rYwGYUZ_JJujMVdsc4bEFSyjA6?usp=sharing
 
 ## Conclusion
 
