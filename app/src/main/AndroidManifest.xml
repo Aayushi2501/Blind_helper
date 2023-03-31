@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.software2.ocrhy">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/home"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/home"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.OCRhy">
+        <activity
+            android:name=".MainActivity8"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity7"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity6"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity5"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity4"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity3"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:supportsRtl="true" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <service android:name=".GetAllData" />
+    </application>
+
+</manifest>

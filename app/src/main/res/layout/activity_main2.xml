@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    tools:context=".MainActivity2"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@color/black"
+        android:gravity="center"
+        android:text="OCR READER FOR VISUALLY IMPARED PEOPLES"
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        android:textStyle="bold"
+
+        tools:layout_editor_absoluteX="8dp" />
+
+
+
+
+
+
+</RelativeLayout>

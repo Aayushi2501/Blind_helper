@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Blind helper</string>
+    <string name="speech_prompt">say hello</string>
+    <string name="speech_not_supported">not supported</string>
+    <string name="city_heading">Enter the City\'s name</string>
+    <string name="edittext_hint">City Name</string>
+    <string name="button_string">Check Weather</string>
+    <string name="city_name">Enter a city…</string>
+    <string name="todo">TODO</string>
+    <string name="editText_hint">Enter city name</string>
+    <string name="weather_img">weather image</string>
+    <string name="check_weather">Check Weather</string>
+    <string name="hint">hello</string>
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="settings">Settings Please</string>=
+    <string name="no_location_detected">
+        No location detected. Make sure location is enabled on the device.
+    </string>
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+    <string name="rounded">Get by Location</string>
+    <string name="batter_percentage">batter percentage</string>
+    <string name="features">
+        say read for reading</string>
+    <string name="swipe_right_and_say_read_for_read_and_no_to_return_in_main_menu">swipe right and say read for read and no to return in main menu</string>
+</resources>
