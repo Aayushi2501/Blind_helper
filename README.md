@@ -32,6 +32,10 @@ This project was conceived keeping in mind the day-to-day struggles such as read
 
 ![App architecture](https://github.com/Aayushi2501/Blind_helper/blob/master/tl.png)
 
+## Downloadble Resorces 
+
+1) https://bit.ly/BlindHelperPPT 
+2) https://drive.google.com/drive/folders/1nJSYW5rYwGYUZ_JJujMVdsc4bEFSyjA6?usp=sharing
 
 ## Conclusion
 
